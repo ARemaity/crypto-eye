@@ -1,1 +1,1 @@
-NEWS miroservice scrapping (paython-react-laravel)
+cryptoeye laravel / graphql / React / Mysql /Redis
